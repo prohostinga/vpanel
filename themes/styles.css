@@ -4663,7 +4663,7 @@ a.list-group-item:focus {
   border-top-right-radius: 3px;
   border-top-left-radius: 3px;
 }
-.panel-heading :first-of-type {
+.panel-heading:first-of-type {
   display: none;
 }
 .panel-title {
