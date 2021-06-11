@@ -4663,8 +4663,8 @@ a.list-group-item:focus {
   border-top-right-radius: 3px;
   border-top-left-radius: 3px;
 }
-.panel-heading:first-of-type {
-  display: none;
+.panel-heading form input {
+  width: 100%;
 }
 .panel-title {
   margin-top: 0;
